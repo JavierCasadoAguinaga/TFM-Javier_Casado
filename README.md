@@ -3,13 +3,13 @@
 
 ## Introducción
 
-El presente proyecto busca desarrollar una herramienta que permita realizar predicciones certeras sobre la audiencia futura en una cadena de televisión determinada. La idea para este proyecto surge a raiz de la problemática que encuentran los planificadores de medios cuando gestionan campañas publicitarias de los clientes. Estas campañas se pagan en función de la gente que vea el spot publicitario. Es por eso que necesitan ua estimación lo más aporximada posible a la audiencia real, para getionar la campaña sin salirse de los costes estipulados y cumpliendo requerimientos de los clientes.
+El presente proyecto busca desarrollar una herramienta que permita realizar predicciones certeras sobre la audiencia futura en una cadena de televisión determinada. La idea para este proyecto surge a raiz de la problemática que encuentran los planificadores de medios cuando gestionan campañas publicitarias de los clientes. Estas campañas se pagan en función de la gente que vea el spot publicitario. Es por eso que necesitan una estimación lo más aporximada posible a la audiencia real, para getionar la campaña sin salirse de los costes estipulados y cumpliendo requerimientos de los clientes.
 Este proyecto busca abordar de una manera simple y clara los problemas mencionados. En todo momento se ha buscado optimizar tanto código como archivos necesarios para la ejecución del proyecto.
 
 
 ## Contenido del repositorio
 
-Este apartado explica que contiene el repositorio y lo que se ha ido haciendo en cada uno de los notebooks. Se ha procurado simplificar al máximo la organización del mismo, aunando el código y lkas visualizaciones finales en cada uno de los tres archivos presentes:
+Este apartado explica que contiene el repositorio y lo que se ha ido haciendo en cada uno de los notebooks. Se ha procurado simplificar al máximo la organización del mismo, aunando el código y las visualizaciones finales en cada uno de los tres archivos presentes:
 
 1. Data_processing.ipynb: este notebook contiene el procesado y limpieza de datos inicial. Tras ejecutar el presente notebook, se obtiene como resultado un dataset con todas las variables necesarias para realizar el apartado de visualización y para entrenar el algoritmo. Es en este punto donde se crean columnas complementarias a las contenidas en los datos originales. Algunas de estas columnas se crean para la visualización exclusivamente, y carecen de sentido en la fase de modelización.
 
