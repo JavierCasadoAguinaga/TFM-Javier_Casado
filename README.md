@@ -9,7 +9,7 @@ Este proyecto busca abordar de una manera simple y clara los problemas mencionad
 
 ## Contenido del repositorio
 
-Este apartado explica que contiene el repositorio y lo que se ha ido haciendo en cada uno de los notebooks. Se ha procurado simplificar al máximo la organización del mismo, aunando el código y las visualizaciones finales en cada uno de los tres archivos presentes:
+Este apartado explica que contiene el repositorio y lo que se ha ido haciendo en cada uno de los notebooks. Se ha procurado simplificar al máximo la organización del mismo, aunando el código y las visualizaciones finales en cada uno de los cinco archivos presentes:
 
 1. Data_processing.ipynb: este notebook contiene el procesado y limpieza de datos inicial. Tras ejecutar el presente notebook, se obtiene como resultado un dataset con todas las variables necesarias para realizar el apartado de visualización y para entrenar el algoritmo. Es en este punto donde se crean columnas complementarias a las contenidas en los datos originales. Algunas de estas columnas se crean para la visualización exclusivamente, y carecen de sentido en la fase de modelización.
 
@@ -17,7 +17,9 @@ Este apartado explica que contiene el repositorio y lo que se ha ido haciendo en
 
 3. Visualization.pbix: este archivo busca aportar al proyecto un entorno donde visualizar las métricas y datos necesarios para la correcta planificación de una campaña, así como mostrar los datos resultantes de una predicción determinada. También sirve como herramienta para el control de datos, y para comprobar que la fase de carga y limpieza de datos se ha realizado correctamente. A través de este archivo no solo podremos visualizar datos relevantes, sino que también servirá para hacer seguimiento de los datos disponibles.
 
-4. Project_report.pdf: por último el documento que recoge todos los pasos seguidos en el proyecto. En él se explica en detalle las decisiones tomadas en cada apartado, y se explican los datos disponibles. Se recomienda encarecidamente su lectura antes de proceder con el resto de archivos.
+4. Project_report.pdf: el documento que recoge todos los pasos seguidos en el proyecto. En él se explica en detalle las decisiones tomadas en cada apartado, y se explican los datos disponibles. Se recomienda encarecidamente su lectura antes de proceder con el resto de archivos.
+
+5. Visualization_manual.pdf: este archivo contiene la explicación de todo el módulo de visualización. En él se explica la importancia de los diferentes análisis realizados, así como todo el control de la carga de datos.
 
 No ha sido posible cargar en el repositorio la totalidad de los datos utilizados (130GB aprox). Podrá disponer de los datos contactando con el propietario del proyecto.
 
