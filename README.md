@@ -29,4 +29,4 @@ El proyecto se ha realizado casi en su totalidad haciendo uso de los notebooks d
 
 ## Workflow
 
-Como se mencionó anteriormente, se recomienda en primer lugar la lectura de la memoria, para comprender mejor las decisiones tomadas. Para poder llegar a los resultados esperedas, se deberá ejecutar primero el notebook de procesado y limpieza de datos, para posteriormente pasar al notebook de modelado, usando el dataset resultado de la primera ejecución. Para el documento de visualización habrá que cargar los datasets resultatenes de la ejecución de los dos notebooks.
+Como se mencionó anteriormente, se recomienda en primer lugar la lectura de la memoria, para comprender mejor las decisiones tomadas. Para poder llegar a los resultados esperedas, se deberá ejecutar primero el notebook de procesado y limpieza de datos, para posteriormente pasar al notebook de modelado, usando el dataset resultado de la primera ejecución. Para el documento de visualización habrá que cargar el dataset resultante de la ejecución de los dos notebooks(df_ml_21.csv).
