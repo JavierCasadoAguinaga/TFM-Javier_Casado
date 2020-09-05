@@ -19,7 +19,7 @@ Este apartado explica que contiene el repositorio y lo que se ha ido haciendo en
 
 4. Project_report.pdf: por último el documento que recoge todos los pasos seguidos en el proyecto. En él se explica en detalle las decisiones tomadas en cada apartado, y se explican los datos disponibles. Se recomienda encarecidamente su lectura antes de proceder con el resto de archivos.
 
-No ha sido posible cargar en el repositorio los datos utilizados para el proyecto debido a su gran tamaño (130GB aprox). Podrá disponer de los datos contactando con el propietario del proyecto.
+No ha sido posible cargar en el repositorio la totalidad de los datos utilizados (130GB aprox). Podrá disponer de los datos contactando con el propietario del proyecto.
 
 
 ## Tecnologías utilizadas
